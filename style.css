@@ -17,7 +17,7 @@ section{
     padding-left: 5%;
 }
 .half-width img{
-    width:50%;
+    width:70%;
     background-color: rgb(12, 26, 27);
 }
 .link-button{
@@ -36,16 +36,22 @@ section{
 }
 .My-mission-in-2022{
     text-align: center;
-    padding: 3%3%;
+    padding: 3%;
 }
-.know-our-global-commiunity{
+.know-our-global-community{
     background-image: url(shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 10%;
     background-position: bottom;
     background-position: right;
-    background-image padding:border-right-width;
     
 }
-
-
+.blue-color{
+    color:royalblue;
+}
+.illustrators{
+    text-align:center;
+    width: 2%;
+   
+    
+}
