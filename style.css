@@ -1,0 +1,51 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+   
+}
+.orange-color{
+     color: orange;
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width:50%;
+    background-color: rgb(12, 26, 27);
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color:white;
+    font-weight: 300;
+    border-radius:5px;
+}
+.develop-without-limits{
+   background-image: url(shapes/shape-1.png);
+   background-size: 10%;
+   background-repeat: no-repeat;
+
+}
+.My-mission-in-2022{
+    text-align: center;
+    padding: 3%3%;
+}
+.know-our-global-commiunity{
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: bottom;
+    background-position: right;
+    background-image padding:border-right-width;
+    
+}
+
+
